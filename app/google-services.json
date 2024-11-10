@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528689123815",
+    "project_id": "it20032",
+    "storage_bucket": "it20032.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528689123815:android:6548cc5cb39b5bba6c2d42",
+        "android_client_info": {
+          "package_name": "com.example.notespro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcTakn2i32zD84JI84tuTl6avcCw2agBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
